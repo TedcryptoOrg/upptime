@@ -22,9 +22,9 @@
     "url": "https://lotto.tedcrypto.io",
     "icon": "https://icons.duckduckgo.com/ip3/lotto.tedcrypto.io.ico",
     "slug": "ted-lotto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 715,
     "timeMonth": 832,
     "timeYear": 803,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-06": 0
+    }
   },
   {
     "name": "Cosmos Tools",
@@ -59,13 +61,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.tedcrypto.io.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 1033,
-    "timeDay": 2445,
+    "timeDay": 1241,
     "timeWeek": 1365,
     "timeMonth": 1031,
     "timeYear": 1033,
