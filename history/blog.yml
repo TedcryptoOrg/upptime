@@ -1,7 +1,7 @@
 url: https://blog.tedcrypto.io
-status: up
-code: 200
-responseTime: 1247
-lastUpdated: 2024-03-01T13:21:45.947Z
+status: down
+code: 429
+responseTime: 68
+lastUpdated: 2024-03-01T14:18:28.564Z
 startTime: 2023-12-21T10:00:48.534Z
 generator: Upptime <https://github.com/upptime/upptime>
