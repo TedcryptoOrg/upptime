@@ -4,19 +4,19 @@
     "url": "https://tedcrypto.io",
     "icon": "https://icons.duckduckgo.com/ip3/tedcrypto.io.ico",
     "slug": "tedcrypto",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 545,
     "timeDay": 389,
     "timeWeek": 585,
     "timeMonth": 591,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2024-04-04": 8
+      "2024-04-04": 0
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lotto.tedcrypto.io.ico",
     "slug": "ted-lotto",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 783,
     "timeDay": 668,
     "timeWeek": 697,
     "timeMonth": 787,
     "timeYear": 783,
-    "dailyMinutesDown": {
-      "2024-04-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cosmos Tools",
@@ -45,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.tedcrypto.io.ico",
     "slug": "cosmos-tools",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 739,
     "timeDay": 749,
     "timeWeek": 744,
     "timeMonth": 926,
     "timeYear": 739,
-    "dailyMinutesDown": {
-      "2024-04-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -65,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.tedcrypto.io.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 1023,
     "timeDay": 1793,
     "timeWeek": 1605,
