@@ -31,8 +31,8 @@
     "slug": "ted-lotto",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 812,
@@ -41,7 +41,7 @@
     "timeMonth": 904,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 2
     }
   },
   {
@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2024-10-11": 16,
+      "2024-10-11": 18,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
