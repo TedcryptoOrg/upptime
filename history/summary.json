@@ -4,15 +4,15 @@
     "url": "https://tedcrypto.io",
     "icon": "https://icons.duckduckgo.com/ip3/tedcrypto.io.ico",
     "slug": "tedcrypto",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "50.11%",
-    "uptimeWeek": "74.64%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "99.41%",
-    "time": 2055,
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "51.03%",
+    "uptimeWeek": "74.72%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "99.42%",
+    "time": 2057,
     "timeDay": 4586,
-    "timeWeek": 4074,
+    "timeWeek": 4057,
     "timeMonth": 3736,
     "timeYear": 2299,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
       "2025-04-23": 262,
       "2025-04-22": 280,
       "2025-04-21": 311,
-      "2025-04-20": 108
+      "2025-04-20": 53
     }
   },
   {
@@ -66,7 +66,7 @@
     "timeMonth": 0,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2025-04-29": 242,
+      "2025-04-29": 264,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
