@@ -6,17 +6,17 @@
     "slug": "tedcrypto",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "65.18%",
-    "uptimeWeek": "74.90%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "64.48%",
+    "uptimeWeek": "74.80%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
-    "time": 2103,
-    "timeDay": 5971,
-    "timeWeek": 4277,
-    "timeMonth": 3832,
-    "timeYear": 2375,
+    "time": 2131,
+    "timeDay": 6317,
+    "timeWeek": 4357,
+    "timeMonth": 3888,
+    "timeYear": 2408,
     "dailyMinutesDown": {
-      "2025-04-29": 317,
+      "2025-04-29": 328,
       "2025-04-28": 533,
       "2025-04-27": 423,
       "2025-04-26": 389,
@@ -24,7 +24,7 @@
       "2025-04-24": 213,
       "2025-04-23": 262,
       "2025-04-22": 280,
-      "2025-04-21": 274
+      "2025-04-21": 251
     }
   },
   {
@@ -54,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.tedcrypto.io.ico",
     "slug": "cosmos-tools",
     "status": "down",
-    "uptime": "29.93%",
+    "uptime": "29.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -65,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2025-04-29": 787,
+      "2025-04-29": 830,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
