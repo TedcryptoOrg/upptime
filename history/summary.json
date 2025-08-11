@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.41%",
     "time": 2295,
-    "timeDay": 500,
-    "timeWeek": 555,
-    "timeMonth": 552,
+    "timeDay": 796,
+    "timeWeek": 526,
+    "timeMonth": 562,
     "timeYear": 2559,
     "dailyMinutesDown": {
       "2025-07-14": 21,
@@ -41,9 +41,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.88%",
     "time": 808,
-    "timeDay": 659,
-    "timeWeek": 625,
-    "timeMonth": 697,
+    "timeDay": 1008,
+    "timeWeek": 661,
+    "timeMonth": 700,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2025-07-14": 33,
@@ -58,7 +58,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.tedcrypto.io.ico",
     "slug": "cosmos-tools",
     "status": "down",
-    "uptime": "24.79%",
+    "uptime": "24.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -69,7 +69,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 25,
+      "2025-08-11": 24,
+      "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -432,8 +433,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
@@ -445,12 +445,12 @@
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.60%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "99.47%",
     "time": 1019,
-    "timeDay": 597,
-    "timeWeek": 740,
-    "timeMonth": 907,
+    "timeDay": 1194,
+    "timeWeek": 736,
+    "timeMonth": 897,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2025-07-30": 241,
