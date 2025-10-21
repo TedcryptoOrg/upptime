@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 2296,
-    "timeDay": 536,
-    "timeWeek": 575,
-    "timeMonth": 569,
+    "timeDay": 481,
+    "timeWeek": 567,
+    "timeMonth": 568,
     "timeYear": 2560,
     "dailyMinutesDown": {
       "2025-07-14": 21,
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 802,
-    "timeDay": 694,
-    "timeWeek": 784,
-    "timeMonth": 745,
-    "timeYear": 787,
+    "time": 801,
+    "timeDay": 657,
+    "timeWeek": 775,
+    "timeMonth": 744,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2025-07-14": 33,
       "2025-06-21": 18,
@@ -62,13 +62,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1069,
+    "time": 1045,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 1165,
+      "2025-10-21": 21,
+      "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -431,8 +432,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
-      "2024-10-22": 1440,
-      "2024-10-21": 1440
+      "2024-10-22": 1440
     }
   },
   {
@@ -442,17 +442,17 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "88.69%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "89.32%",
+    "uptimeWeek": "98.47%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.42%",
     "time": 990,
-    "timeDay": 2190,
-    "timeWeek": 1788,
-    "timeMonth": 1347,
+    "timeDay": 2181,
+    "timeWeek": 1784,
+    "timeMonth": 1350,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2025-10-20": 163,
+      "2025-10-20": 154,
       "2025-09-03": 26,
       "2025-08-27": 24,
       "2025-08-24": 23,
@@ -484,7 +484,8 @@
       "2025-03-05": 16,
       "2025-01-28": 20,
       "2025-01-06": 23,
-      "2025-01-02": 24
+      "2025-01-02": 24,
+      "2024-12-26": 23
     }
   }
 ]
