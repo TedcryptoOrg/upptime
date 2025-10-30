@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tedcrypto.io.ico",
     "slug": "tedcrypto",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 2296,
-    "timeDay": 342,
-    "timeWeek": 571,
-    "timeMonth": 605,
+    "timeDay": 469,
+    "timeWeek": 534,
+    "timeMonth": 597,
     "timeYear": 2561,
     "dailyMinutesDown": {
       "2025-07-14": 21,
@@ -41,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 800,
-    "timeDay": 492,
-    "timeWeek": 681,
-    "timeMonth": 762,
+    "timeDay": 1027,
+    "timeWeek": 695,
+    "timeMonth": 766,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2025-07-14": 33,
@@ -57,7 +57,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.tedcrypto.io.ico",
     "slug": "cosmos-tools",
     "status": "down",
-    "uptime": "21.85%",
+    "uptime": "21.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -68,7 +68,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-29": 652,
+      "2025-10-30": 21,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -431,8 +432,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -442,17 +442,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.42%",
     "time": 988,
-    "timeDay": 600,
-    "timeWeek": 899,
-    "timeMonth": 1260,
-    "timeYear": 955,
+    "timeDay": 691,
+    "timeWeek": 915,
+    "timeMonth": 1259,
+    "timeYear": 956,
     "dailyMinutesDown": {
-      "2025-10-29": 7,
       "2025-10-20": 154,
       "2025-09-03": 26,
       "2025-08-27": 24,
@@ -485,7 +484,8 @@
       "2025-03-05": 16,
       "2025-01-28": 20,
       "2025-01-06": 23,
-      "2025-01-02": 24
+      "2025-01-02": 24,
+      "2024-12-26": 23
     }
   }
 ]
